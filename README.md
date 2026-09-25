@@ -28,6 +28,8 @@ The dashboard is organized into three main views:
 
 - Power BI
 - DAX
+-Python
+-Postgresql
 
 ## 📊 Dashboard Sections
 
